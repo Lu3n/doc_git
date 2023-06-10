@@ -9,8 +9,6 @@ git add : Ele é responsavel por colocoar o arquivo modificado em uma area segur
 
 git commit -m "<texto_da_modificação>" : Ele é responsavel por criar uma nova versão do projeto com as referencias do criador
 
-
-ERROS :
 git config --  global user.name "<seu_nome>"
 
 git config -- global user.email "<seu_email>"
@@ -21,6 +19,11 @@ git checkout -b <nome_da_branch>: Cria uma nova branch ramo
 
 git checkout <nome_da_branch> Muda de brach/ramo
 
-git marge <nome_da_brach> : ele adiciona a branch atual o conteudo de outra branch .
+git merge <nome_da_brach> : ele adiciona a branch atual o conteudo de outra branch .
 
-i
+git clone <url>: Baixa o projeto do repositorio
+git push : Ele envia alterações para o repositorio
+git pull: Ele puxa as alterações para o repositorio
+
+Possíveis Erros:
+403 : Apagando as credenciais, gerenciamento de credenciais.
