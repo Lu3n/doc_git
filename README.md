@@ -1,9 +1,11 @@
 # Documentação git
 Documentação de git para ajudar nos comandos
 
+GITTK : Verificar quem está participando do projeto e os seus usuários
+
 Git init : Ele inicia o arquivo .git/ para controlar a pasta
 
-Fit status: Ele é responsavel por validar os arquivos dentro do projeto
+Git status: Ele é responsavel por validar os arquivos dentro do projeto
 
 Em vermelho ele mostra os arquivos modificados .
 
