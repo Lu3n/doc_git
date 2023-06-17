@@ -24,7 +24,9 @@ git checkout <nome_da_branch> Muda de brach/ramo
 git merge <nome_da_brach> : ele adiciona a branch atual o conteudo de outra branch .
 
 git clone <url>: Baixa o projeto do repositorio
+
 git push : Ele envia alterações para o repositorio
+
 git pull: Ele puxa as alterações para o repositorio
 
 Possíveis Erros:
